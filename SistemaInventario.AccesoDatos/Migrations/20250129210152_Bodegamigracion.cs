@@ -2,6 +2,7 @@
 
 #nullable disable
 
+
 namespace SistemaInventario.AccesoDatos.Migrations
 {
     public partial class Bodegamigracion : Migration
